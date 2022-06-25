@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CubicApp</string>
+    <string name="btnEmpezar">Empezar</string>
+    <string name="txt">Dígite los números a cubicar</string>
+
+
+</resources>
